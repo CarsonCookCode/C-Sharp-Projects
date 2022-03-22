@@ -1,0 +1,14 @@
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\bin\Debug\netcoreapp3.1\methodSubmission.exe
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\bin\Debug\netcoreapp3.1\methodSubmission.deps.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\bin\Debug\netcoreapp3.1\methodSubmission.runtimeconfig.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\bin\Debug\netcoreapp3.1\methodSubmission.runtimeconfig.dev.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\bin\Debug\netcoreapp3.1\methodSubmission.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\bin\Debug\netcoreapp3.1\methodSubmission.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\obj\Debug\netcoreapp3.1\methodSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\obj\Debug\netcoreapp3.1\methodSubmission.AssemblyInfoInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\obj\Debug\netcoreapp3.1\methodSubmission.AssemblyInfo.cs
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\obj\Debug\netcoreapp3.1\methodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\obj\Debug\netcoreapp3.1\methodSubmission.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\obj\Debug\netcoreapp3.1\methodSubmission.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\obj\Debug\netcoreapp3.1\methodSubmission.genruntimeconfig.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodSubmission\methodSubmission\obj\Debug\netcoreapp3.1\methodSubmission.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\bin\Debug\netcoreapp3.1\Console-App-Do-While.exe
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\bin\Debug\netcoreapp3.1\Console-App-Do-While.deps.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\bin\Debug\netcoreapp3.1\Console-App-Do-While.runtimeconfig.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\bin\Debug\netcoreapp3.1\Console-App-Do-While.runtimeconfig.dev.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\bin\Debug\netcoreapp3.1\Console-App-Do-While.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\bin\Debug\netcoreapp3.1\Console-App-Do-While.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\obj\Debug\netcoreapp3.1\Console-App-Do-While.csproj.AssemblyReference.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\obj\Debug\netcoreapp3.1\Console-App-Do-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\obj\Debug\netcoreapp3.1\Console-App-Do-While.AssemblyInfoInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\obj\Debug\netcoreapp3.1\Console-App-Do-While.AssemblyInfo.cs
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\obj\Debug\netcoreapp3.1\Console-App-Do-While.csproj.CoreCompileInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\obj\Debug\netcoreapp3.1\Console-App-Do-While.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\obj\Debug\netcoreapp3.1\Console-App-Do-While.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Console-App-Do-While\Console-App-Do-While\obj\Debug\netcoreapp3.1\Console-App-Do-While.genruntimeconfig.cache

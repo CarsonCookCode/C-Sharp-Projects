@@ -1,0 +1,14 @@
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\bin\Debug\netcoreapp3.1\DateTime-Submission.exe
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\bin\Debug\netcoreapp3.1\DateTime-Submission.deps.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\bin\Debug\netcoreapp3.1\DateTime-Submission.runtimeconfig.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\bin\Debug\netcoreapp3.1\DateTime-Submission.runtimeconfig.dev.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\bin\Debug\netcoreapp3.1\DateTime-Submission.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\bin\Debug\netcoreapp3.1\DateTime-Submission.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\obj\Debug\netcoreapp3.1\DateTime-Submission.csproj.AssemblyReference.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\obj\Debug\netcoreapp3.1\DateTime-Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\obj\Debug\netcoreapp3.1\DateTime-Submission.AssemblyInfoInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\obj\Debug\netcoreapp3.1\DateTime-Submission.AssemblyInfo.cs
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\obj\Debug\netcoreapp3.1\DateTime-Submission.csproj.CoreCompileInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\obj\Debug\netcoreapp3.1\DateTime-Submission.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\obj\Debug\netcoreapp3.1\DateTime-Submission.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DateTime-Submission\DateTime-Submission\obj\Debug\netcoreapp3.1\DateTime-Submission.genruntimeconfig.cache

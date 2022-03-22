@@ -1,0 +1,13 @@
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\bin\Debug\netcoreapp3.1\methods-and-objects.exe
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\bin\Debug\netcoreapp3.1\methods-and-objects.deps.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\bin\Debug\netcoreapp3.1\methods-and-objects.runtimeconfig.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\bin\Debug\netcoreapp3.1\methods-and-objects.runtimeconfig.dev.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\bin\Debug\netcoreapp3.1\methods-and-objects.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\bin\Debug\netcoreapp3.1\methods-and-objects.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\obj\Debug\netcoreapp3.1\methods-and-objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\obj\Debug\netcoreapp3.1\methods-and-objects.AssemblyInfoInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\obj\Debug\netcoreapp3.1\methods-and-objects.AssemblyInfo.cs
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\obj\Debug\netcoreapp3.1\methods-and-objects.csproj.CoreCompileInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\obj\Debug\netcoreapp3.1\methods-and-objects.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\obj\Debug\netcoreapp3.1\methods-and-objects.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methods-and-objects\methods-and-objects\obj\Debug\netcoreapp3.1\methods-and-objects.genruntimeconfig.cache

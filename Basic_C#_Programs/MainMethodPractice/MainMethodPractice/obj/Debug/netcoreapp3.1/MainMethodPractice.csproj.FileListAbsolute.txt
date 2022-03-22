@@ -1,0 +1,14 @@
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\bin\Debug\netcoreapp3.1\MainMethodPractice.exe
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\bin\Debug\netcoreapp3.1\MainMethodPractice.deps.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\bin\Debug\netcoreapp3.1\MainMethodPractice.runtimeconfig.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\bin\Debug\netcoreapp3.1\MainMethodPractice.runtimeconfig.dev.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\bin\Debug\netcoreapp3.1\MainMethodPractice.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\bin\Debug\netcoreapp3.1\MainMethodPractice.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\obj\Debug\netcoreapp3.1\MainMethodPractice.csproj.AssemblyReference.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\obj\Debug\netcoreapp3.1\MainMethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\obj\Debug\netcoreapp3.1\MainMethodPractice.AssemblyInfoInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\obj\Debug\netcoreapp3.1\MainMethodPractice.AssemblyInfo.cs
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\obj\Debug\netcoreapp3.1\MainMethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\obj\Debug\netcoreapp3.1\MainMethodPractice.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\obj\Debug\netcoreapp3.1\MainMethodPractice.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\MainMethodPractice\MainMethodPractice\obj\Debug\netcoreapp3.1\MainMethodPractice.genruntimeconfig.cache

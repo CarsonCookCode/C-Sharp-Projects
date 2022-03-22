@@ -1,0 +1,14 @@
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\bin\Debug\netcoreapp3.1\ElseStatements.exe
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\bin\Debug\netcoreapp3.1\ElseStatements.deps.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\bin\Debug\netcoreapp3.1\ElseStatements.runtimeconfig.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\bin\Debug\netcoreapp3.1\ElseStatements.runtimeconfig.dev.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\bin\Debug\netcoreapp3.1\ElseStatements.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\bin\Debug\netcoreapp3.1\ElseStatements.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\obj\Debug\netcoreapp3.1\ElseStatements.csproj.AssemblyReference.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\obj\Debug\netcoreapp3.1\ElseStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\obj\Debug\netcoreapp3.1\ElseStatements.AssemblyInfoInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\obj\Debug\netcoreapp3.1\ElseStatements.AssemblyInfo.cs
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\obj\Debug\netcoreapp3.1\ElseStatements.csproj.CoreCompileInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\obj\Debug\netcoreapp3.1\ElseStatements.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\obj\Debug\netcoreapp3.1\ElseStatements.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ElseStatements\ElseStatements\obj\Debug\netcoreapp3.1\ElseStatements.genruntimeconfig.cache

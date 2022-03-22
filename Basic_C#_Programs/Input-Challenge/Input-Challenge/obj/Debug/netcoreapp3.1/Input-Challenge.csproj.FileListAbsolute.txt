@@ -1,0 +1,13 @@
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\bin\Debug\netcoreapp3.1\Input-Challenge.exe
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\bin\Debug\netcoreapp3.1\Input-Challenge.deps.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\bin\Debug\netcoreapp3.1\Input-Challenge.runtimeconfig.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\bin\Debug\netcoreapp3.1\Input-Challenge.runtimeconfig.dev.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\bin\Debug\netcoreapp3.1\Input-Challenge.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\bin\Debug\netcoreapp3.1\Input-Challenge.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\obj\Debug\netcoreapp3.1\Input-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\obj\Debug\netcoreapp3.1\Input-Challenge.AssemblyInfoInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\obj\Debug\netcoreapp3.1\Input-Challenge.AssemblyInfo.cs
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\obj\Debug\netcoreapp3.1\Input-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\obj\Debug\netcoreapp3.1\Input-Challenge.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\obj\Debug\netcoreapp3.1\Input-Challenge.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Input-Challenge\Input-Challenge\obj\Debug\netcoreapp3.1\Input-Challenge.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\bin\Debug\netcoreapp3.1\methodClass.exe
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\bin\Debug\netcoreapp3.1\methodClass.deps.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\bin\Debug\netcoreapp3.1\methodClass.runtimeconfig.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\bin\Debug\netcoreapp3.1\methodClass.runtimeconfig.dev.json
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\bin\Debug\netcoreapp3.1\methodClass.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\bin\Debug\netcoreapp3.1\methodClass.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\obj\Debug\netcoreapp3.1\methodClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\obj\Debug\netcoreapp3.1\methodClass.AssemblyInfoInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\obj\Debug\netcoreapp3.1\methodClass.AssemblyInfo.cs
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\obj\Debug\netcoreapp3.1\methodClass.csproj.CoreCompileInputs.cache
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\obj\Debug\netcoreapp3.1\methodClass.dll
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\obj\Debug\netcoreapp3.1\methodClass.pdb
+C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\methodClass\methodClass\obj\Debug\netcoreapp3.1\methodClass.genruntimeconfig.cache
