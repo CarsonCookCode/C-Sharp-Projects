@@ -6,7 +6,7 @@ class Program
 {
     static void Main()
     {
-
+        //Creating an array of strings
         string[] stringArray = { "dog", "cat", "mouse" };
         Console.WriteLine("Select an index of a string array: (0-2)");
         int index = Convert.ToInt32(Console.ReadLine());
@@ -18,7 +18,7 @@ class Program
             Console.WriteLine("You must choose an index of 0, 1, or 2");
         }
         
-
+        //Creating an array of integers
         int[] intArray = { 1, 2, 4};
         Console.WriteLine("Select an index of an integer array: (0-2)");
         int index1 = Convert.ToInt32(Console.ReadLine());
@@ -30,7 +30,8 @@ class Program
         {
             Console.WriteLine("You must choose an index of 0, 1, or 2");
         }
-
+        
+        //Creating a list of strings
         List<string> myList = new List<string>();
         myList.Add("Frank");
         myList.Add("Bobby");
