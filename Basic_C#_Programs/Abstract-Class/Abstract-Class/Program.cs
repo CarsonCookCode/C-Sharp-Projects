@@ -33,7 +33,9 @@ namespace Abstract_Class
             };
 
             // Called Quit method
+            Console.WriteLine(myEmployee2.Hired);
             myEmployee2.Quit();
+            Console.WriteLine(myEmployee2.Hired);
             Console.ReadLine();
 
             //Employee<int> myEmployee3 = new Employee<int>() 
