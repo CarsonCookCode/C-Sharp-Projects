@@ -6,7 +6,7 @@ namespace Abstract_Class
 {
     interface IQuittable
     {
-        public bool Hired { get; set; }
+        bool Hired { get; set; }
 
         void Quit();
     }
