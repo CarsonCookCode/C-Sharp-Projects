@@ -11,26 +11,30 @@ namespace Abstract_Class
         static void Main(string[] args)
         {
             //Instantiate Employee object
-            Employee<string> myEmployee1 = new Employee<string>()
+            //Employee<string> myEmployee1 = new Employee<string>()
+            //{
+            //    FirstName = "Sample",
+            //    LastName = "Student",
+            //    Hired = true,
+            //    Id = 1,
+            //};
+            //Call Say Name
+            //myEmployee1.SayName();
+            //
+            //myEmployee1.Things = new List<string>() { "car", "truck", "semi" };
+
+            // Created on object of type IQuittable
+            IQuittable myEmployee2 = new Employee<Person>()
             {
                 FirstName = "Sample",
                 LastName = "Student",
                 Hired = true,
-                Id = 1,
+                Id = 2
             };
-            //Call Say Name
-            myEmployee1.SayName();
+
+            // Called Quit method
+            myEmployee2.Quit();
             Console.ReadLine();
-            //myEmployee1.Things = new List<string>() { "car", "truck", "semi" };
-
-
-            //IQuittable myEmployee2 = new Employee<Person>() 
-            //{ 
-            //    FirstName = "Sample",
-            //    LastName = "Student",
-            //    Hired = true,
-            //    Id = 2 
-            //};
 
             //Employee<int> myEmployee3 = new Employee<int>() 
             //{ 
@@ -60,7 +64,7 @@ namespace Abstract_Class
 
 
 
-            //myEmployee2.Quit();
+
 
             //Console.Write("Hired Status: " + myEmployee2.Hired);
 
