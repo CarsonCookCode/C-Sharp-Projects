@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B2923123-40A3-42A0-AC30-AD5D05388B97}</ProjectGuid>
+    <ProjectGuid>{A6013D13-D0DC-4BF0-97E3-C897B5537814}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConstructorSubmission</RootNamespace>
-    <AssemblyName>ConstructorSubmission</AssemblyName>
+    <RootNamespace>TryCatch</RootNamespace>
+    <AssemblyName>TryCatch</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ZeroOrNegativeException.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
