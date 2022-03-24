@@ -10,41 +10,38 @@ namespace Abstract_Class
     {
         static void Main(string[] args)
         {
-            //Instantiate Employee object
-            //Employee<string> myEmployee1 = new Employee<string>()
-            //{
-            //    FirstName = "Sample",
-            //    LastName = "Student",
-            //    Hired = true,
-            //    Id = 1,
-            //};
-            //Call Say Name
-            //myEmployee1.SayName();
-            //
-            //myEmployee1.Things = new List<string>() { "car", "truck", "semi" };
 
-            // Created on object of type IQuittable
-            IQuittable myEmployee2 = new Employee<Person>()
+            Employee<string> myEmployee1 = new Employee<string>()
             {
                 FirstName = "Sample",
                 LastName = "Student",
                 Hired = true,
-                Id = 2
+                Id = 1,
             };
 
-            // Called Quit method
-            Console.WriteLine(myEmployee2.Hired);
-            myEmployee2.Quit();
-            Console.WriteLine(myEmployee2.Hired);
-            Console.ReadLine();
 
-            //Employee<int> myEmployee3 = new Employee<int>() 
-            //{ 
+            //myEmployee1.Things = new List<string>() { "car", "truck", "semi" };
+
+            //IQuittable myEmployee2 = new Employee<Person>()
+            //{
             //    FirstName = "Sample",
             //    LastName = "Student",
             //    Hired = true,
-            //    Id = 3,
+            //    Id = 2
             //};
+
+           
+
+            Employee<int> myEmployee3 = new Employee<int>()
+            {
+                FirstName = "Sample",
+                LastName = "Student",
+                Hired = true,
+                Id = 3,
+            };
+
+            Console.WriteLine(myEmployee1.Id == myEmployee3.Id);
+            Console.ReadLine();
 
             //myEmployee3.Things = new List<int>() { 1, 2, 3 };
 
@@ -62,7 +59,7 @@ namespace Abstract_Class
             //}
 
 
-            //Console.WriteLine(myEmployee1.Id == myEmployee3.Id);
+
 
 
 
