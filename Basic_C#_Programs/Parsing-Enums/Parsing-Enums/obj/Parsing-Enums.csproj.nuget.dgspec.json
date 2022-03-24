@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Parsing-Enums\\Parsing-Enums\\Parsing-Enums.csproj": {}
+    "C:\\Users\\carso\\Github_Repos\\C-Sharp-Projects\\Basic_C#_Programs\\Parsing-Enums\\Parsing-Enums\\Parsing-Enums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Parsing-Enums\\Parsing-Enums\\Parsing-Enums.csproj": {
+    "C:\\Users\\carso\\Github_Repos\\C-Sharp-Projects\\Basic_C#_Programs\\Parsing-Enums\\Parsing-Enums\\Parsing-Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Parsing-Enums\\Parsing-Enums\\Parsing-Enums.csproj",
+        "projectUniqueName": "C:\\Users\\carso\\Github_Repos\\C-Sharp-Projects\\Basic_C#_Programs\\Parsing-Enums\\Parsing-Enums\\Parsing-Enums.csproj",
         "projectName": "Parsing-Enums",
-        "projectPath": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Parsing-Enums\\Parsing-Enums\\Parsing-Enums.csproj",
+        "projectPath": "C:\\Users\\carso\\Github_Repos\\C-Sharp-Projects\\Basic_C#_Programs\\Parsing-Enums\\Parsing-Enums\\Parsing-Enums.csproj",
         "packagesPath": "C:\\Users\\carso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carso\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-C-Sharp-and-Unity-Projects\\Parsing-Enums\\Parsing-Enums\\obj\\",
+        "outputPath": "C:\\Users\\carso\\Github_Repos\\C-Sharp-Projects\\Basic_C#_Programs\\Parsing-Enums\\Parsing-Enums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

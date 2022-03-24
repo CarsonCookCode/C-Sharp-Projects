@@ -20,7 +20,7 @@ namespace Abstract_Class
             };
 
 
-            //myEmployee1.Things = new List<string>() { "car", "truck", "semi" };
+            myEmployee1.Things = new List<string>() { "car", "truck", "semi" };
 
             //IQuittable myEmployee2 = new Employee<Person>()
             //{
@@ -41,24 +41,24 @@ namespace Abstract_Class
             };
 
             Console.WriteLine(myEmployee1.Id == myEmployee3.Id);
+           
+
+            myEmployee3.Things = new List<int>() { 1, 2, 3 };
+
+
+            Console.WriteLine("myEmployee1 things:");
+            foreach (string thing in myEmployee1.Things)
+            {
+                Console.WriteLine(thing);
+            }
+
+            Console.WriteLine("myEmployee3 things:");
+            foreach (int thing in myEmployee3.Things)
+            {
+                Console.WriteLine(thing);
+            }
+
             Console.ReadLine();
-
-            //myEmployee3.Things = new List<int>() { 1, 2, 3 };
-
-
-            //Console.WriteLine("myEmployee1 things:");
-            //foreach (string thing in myEmployee1.Things)
-            //{
-            //    Console.WriteLine(thing);
-            //}
-
-            //Console.WriteLine("myEmployee3 things:");
-            //foreach (int thing in myEmployee3.Things)
-            //{
-            //    Console.WriteLine(thing);
-            //}
-
-
 
 
 

@@ -12,3 +12,17 @@ C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Proj
 C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Parsing-Enums\Parsing-Enums\obj\Debug\netcoreapp3.1\Parsing-Enums.dll
 C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Parsing-Enums\Parsing-Enums\obj\Debug\netcoreapp3.1\Parsing-Enums.pdb
 C:\Users\carso\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Parsing-Enums\Parsing-Enums\obj\Debug\netcoreapp3.1\Parsing-Enums.genruntimeconfig.cache
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\bin\Debug\netcoreapp3.1\Parsing-Enums.exe
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\bin\Debug\netcoreapp3.1\Parsing-Enums.deps.json
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\bin\Debug\netcoreapp3.1\Parsing-Enums.runtimeconfig.json
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\bin\Debug\netcoreapp3.1\Parsing-Enums.runtimeconfig.dev.json
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\bin\Debug\netcoreapp3.1\Parsing-Enums.dll
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\bin\Debug\netcoreapp3.1\Parsing-Enums.pdb
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\obj\Debug\netcoreapp3.1\Parsing-Enums.csproj.AssemblyReference.cache
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\obj\Debug\netcoreapp3.1\Parsing-Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\obj\Debug\netcoreapp3.1\Parsing-Enums.AssemblyInfoInputs.cache
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\obj\Debug\netcoreapp3.1\Parsing-Enums.AssemblyInfo.cs
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\obj\Debug\netcoreapp3.1\Parsing-Enums.csproj.CoreCompileInputs.cache
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\obj\Debug\netcoreapp3.1\Parsing-Enums.dll
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\obj\Debug\netcoreapp3.1\Parsing-Enums.pdb
+C:\Users\carso\Github_Repos\C-Sharp-Projects\Basic_C#_Programs\Parsing-Enums\Parsing-Enums\obj\Debug\netcoreapp3.1\Parsing-Enums.genruntimeconfig.cache
